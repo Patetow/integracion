@@ -1,20 +1,19 @@
 {
-    "productos": [
-      {
-        "nombre": "Producto 1",
-        "precio": 10.0,
-        "descripcion": "Este es el producto 1"
-      },
-      {
-        "nombre": "Producto 2",
-        "precio": 20.0,
-        "descripcion": "Este es el producto 2"
-      },
-      {
-        "nombre": "Producto 3",
-        "precio": 30.0,
-        "descripcion": "Este es el producto 3"
-      }
-    ]
-  }
-  
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "precio": 10.0,
+      "descripcion": "Este es el producto 1"
+    },
+    {
+      "nombre": "Producto 2",
+      "precio": 20.0,
+      "descripcion": "Este es el producto 2"
+    },
+    {
+      "nombre": "Producto 3",
+      "precio": 30.0,
+      "descripcion": "Este es el producto 3"
+    }
+  ]
+}
